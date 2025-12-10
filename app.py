@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+pip install google-genai
 ModuleNotFoundError: No module named 'google'
 from PIL import Image
 import tempfile
